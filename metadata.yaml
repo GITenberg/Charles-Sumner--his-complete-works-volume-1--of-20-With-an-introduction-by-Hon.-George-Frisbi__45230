@@ -1,0 +1,40 @@
+_repo: Charles-Sumner--his-complete-works-volume-1--of-20-With-an-introduction-by-Hon.-George-Frisbi__45230
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hoar, George Frisbie
+    aliases:
+    - Hoar, Geo. F. (George Frisbie)
+    - Hoar, George F. (George Frisbie)
+    birthdate: 1826
+    deathdate: 1904
+    gutenberg_agent_id: '8738'
+    url: http://www.gutenberg.org/2009/agents/8738
+    wikipedia: http://en.wikipedia.org/wiki/George_Frisbie_Hoar
+covers:
+- cover_type: archival
+  image_path: 45230-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Sumner, Charles
+    birthdate: 1811
+    deathdate: 1874
+    gutenberg_agent_id: '1986'
+    url: http://www.gutenberg.org/2009/agents/1986
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
+description: ''
+gutenberg_issued: '2014-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sumner, Charles, 1811-1874'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+title: 'Charles Sumner: his complete works, volume 01 (of 20)'
+url: http://www.gutenberg.org/ebooks/45230
